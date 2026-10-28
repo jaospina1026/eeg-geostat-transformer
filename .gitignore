@@ -1,0 +1,26 @@
+# Data (never commit the datasets)
+data/
+*.edf
+*.set
+*.fif
+*.npy
+*.npz
+
+# Caches / checkpoints / results produced by the notebooks
+cache_*/
+*.pt
+*.pth
+*.ckpt
+cv_results*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

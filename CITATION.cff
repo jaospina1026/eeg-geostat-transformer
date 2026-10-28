@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article and the software."
+title: "Spatially Interpretable Transformer for EEG-Based Cognitive Decline Assessment"
+authors:
+  - family-names: "Ospina-Galindez"
+    given-names: "Johann Alexis"
+    orcid: "https://orcid.org/0000-0001-7395-7952"
+  - family-names: "Lopez Sotelo"
+    given-names: "Jesus Alfonso"
+    orcid: "https://orcid.org/0000-0002-9731-8458"
+  - family-names: "Jaramillo Jimenez"
+    given-names: "Alberto"
+    orcid: "https://orcid.org/0000-0001-5374-6410"
+  - family-names: "Velandia Fajardo"
+    given-names: "Natali Johana"
+  - family-names: "Nunez V."
+    given-names: "Juan M."
+    orcid: "https://orcid.org/0000-0002-3165-6200"
+  - family-names: "De la Prieta"
+    given-names: "Fernando"
+    orcid: "https://orcid.org/0000-0002-8239-5020"
+license: MIT
+year: 2026
+preferred-citation:
+  type: article
+  title: "Spatially Interpretable Transformer Learning for EEG-Based Cognitive Decline Assessment Through Functional Geostatistical Biomarkers"
+  authors:
+    - family-names: "Ospina-Galindez"
+      given-names: "Johann Alexis"
+    - family-names: "Lopez Sotelo"
+      given-names: "Jesus Alfonso"
+    - family-names: "Jaramillo Jimenez"
+      given-names: "Alberto"
+    - family-names: "Velandia Fajardo"
+      given-names: "Natali Johana"
+    - family-names: "Nunez V."
+      given-names: "Juan M."
+    - family-names: "De la Prieta"
+      given-names: "Fernando"
+  journal: "IEEE Access"
+  year: 2026
+  notes: "Under review."
